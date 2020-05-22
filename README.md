@@ -42,7 +42,7 @@ web site</a>:
 * The dataset includes missing values that are coded as `?`.
 
 
-## Pupose
+## Purpose
 
 The overall goal here is simply to examine how household energy usage
 varies over a 2-day period in February, 2007 using the base plotting system.
